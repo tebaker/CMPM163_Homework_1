@@ -18,3 +18,4 @@
         https://www.turbosquid.com/3d-models/free-3ds-model-scissor/758210
            This screw uses a Phong material and is skinned with a random picture of legos.
   * Object #4 is a floor plane that is skinned with a wood grain texture. This object uses Phong material
+  * Object #5 is a text object pointing to the Icosahedron
