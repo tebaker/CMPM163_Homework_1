@@ -1,10 +1,9 @@
-# CMPM163_Homework_1
-## PART A: [cmpm163-hw1-a.bitballoon.com](cmpm163-hw1-a.bitballoon.com)
+# PART A: [cmpm163-hw1-a.bitballoon.com](cmpm163-hw1-a.bitballoon.com)
   ## Controls:
     * W, A, S, D keys move the Icosahedron object around the screen
     * Z, X brightens and dims point light #1
-    * Mouse click, drag, scroll and keyboard arrows implemented using OrbitControls.js and KeyboardState.js respectivly
-  
+    * Mouse click, drag, scroll and keyboard controls using OrbitControls.js, KeyboardState.js
+    
   ## Lights:
     * Point light #1 is white and can be brightened and dimmed
     * Point light #2 is blue-ish and moving back and forth in front of the objects
