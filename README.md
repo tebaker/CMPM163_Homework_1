@@ -1,5 +1,5 @@
 # CMPM163_Homework_1
-# PART A: [cmpm163-hw1-a.bitballoon.com](cmpm163-hw1-a.bitballoon.com)
+## PART A: [cmpm163-hw1-a.bitballoon.com](cmpm163-hw1-a.bitballoon.com)
   ## Controls:
     * W, A, S, D keys move the Icosahedron object around the screen
     * Z, X brightens and dims point light #1
